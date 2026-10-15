@@ -1,0 +1,3 @@
+description = "a liquid of colors under a pixelated grain, after RoquefortCheese's fluidsim"
+host = "metal"
+entry = "shader.metal"

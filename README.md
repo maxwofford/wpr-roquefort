@@ -1,6 +1,6 @@
 # roquefort
 
-<img src="https://cdn.hackclub.com/01a13cfe-f7a6-7a67-853d-5b0923e0a970/roquefort-757581-2940x1912.png" width="800">
+<img src="https://cdn.hackclub.com/01a179ad-e4bf-79fd-81c9-2308af605244/roquefort-757581-1920x1249.png" width="800">
 
 a shader for [wpr](https://github.com/maxwofford/wpr), the wallpaper manager.
 
